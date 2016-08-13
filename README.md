@@ -1,2 +1,2 @@
 # Hello-World
-My first repository
+Hello poor humans, get ready to die because winter is coming !
